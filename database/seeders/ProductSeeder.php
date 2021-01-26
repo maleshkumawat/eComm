@@ -40,7 +40,7 @@ class ProductSeeder extends Seeder
             [ 'name' => 'HP new Printer',
             'price' => '31000.00',
             'category' => 'printer',
-            'gallery' => 'https://www.shutterstock.com/image-photo/jakarta-indonesia-january-22-2019-printer-1291215679',
+            'gallery' => 'https://in-media.apjonlinecdn.com/wysiwyg/buying-printer/best_photo_printer/student.jpeg',
             'description' => 'Printer ,HP best printer 2021',
              ],
 
