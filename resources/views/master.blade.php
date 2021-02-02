@@ -47,5 +47,13 @@
     .search-box{
         width:500px !important;
     }
+    .cart-list-divider{
+        border-bottom: 2px solid gray;
+        margin-bottom: 20px;
+        padding-bottom: 20px;   
+    }
+    .payment{
+        margin: 5px;
+    }
 </style>
 </html>
