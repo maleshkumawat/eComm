@@ -54,7 +54,6 @@ function CartList()
 function RemoveProduct($id){
      Cart::destroy($id);
     return redirect('/cartlist');
-    // return redirect()->back()->with('success', 'IT WORKS!');
 
 }
 function OrderNow(){
